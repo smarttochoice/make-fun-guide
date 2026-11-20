@@ -10,6 +10,8 @@ reward. You build an entry with the agent you already use, submit it as a public
 repository plus the transcripts of the sessions that wrote it, and if it places you
 claim the reward to your own Solana wallet.
 
+This guide was written for the [bring-the-humans-02 bounty](https://make.fun/bounty/bring-the-humans-02).
+
 This guide walks you from zero to your first entry. It takes about an hour the first
 time, and most of that is waiting for your agent to build.
 
